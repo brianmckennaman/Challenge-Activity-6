@@ -1,0 +1,28 @@
+body {
+    font-family: 'Fira Sans', sans-serif;
+}
+
+div {
+    font-size: 50px;
+}
+
+section {
+    font-size: 50px;
+}
+
+h1 {
+    font-size: 25px;
+}
+
+li {
+    font-size: 20px;
+}
+
+input {
+    height: 50px;
+}
+
+#todayForecastHeader {
+    font-size: 50px;
+}
+
